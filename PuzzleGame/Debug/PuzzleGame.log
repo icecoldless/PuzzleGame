@@ -1,0 +1,22 @@
+﻿  Actor.cpp
+d:\puzzlegame\puzzlegame\game.h(131): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\puzzlegame\puzzlegame\game.h(131): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  Game.cpp
+d:\puzzlegame\puzzlegame\game.h(131): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\puzzlegame\puzzlegame\game.h(131): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\puzzlegame\puzzlegame\game.cpp(277): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\puzzlegame\puzzlegame\game.cpp(374): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\puzzlegame\puzzlegame\game.cpp(590): warning C4244: “初始化”: 从“Uint32”转换到“float”，可能丢失数据
+  Main.cpp
+d:\puzzlegame\puzzlegame\game.h(131): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\puzzlegame\puzzlegame\game.h(131): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\puzzlegame\puzzlegame\main.cpp(5): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Puzzle.cpp
+d:\puzzlegame\puzzlegame\game.h(131): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\puzzlegame\puzzlegame\game.h(131): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  SpriteComponent.cpp
+d:\puzzlegame\puzzlegame\game.h(131): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\puzzlegame\puzzlegame\game.h(131): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+d:\puzzlegame\puzzlegame\game.cpp(488): warning C4715: “Game::GetDr”: 不是所有的控件路径都返回值
+  PuzzleGame.vcxproj -> D:\PuzzleGame\Debug\PuzzleGame.exe
